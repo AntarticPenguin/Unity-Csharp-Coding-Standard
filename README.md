@@ -131,11 +131,12 @@ Human.Arm.cs
 2. public 멤버변수
 3. protected 멤버변수
 4. private 멤버변수
-5. 생성자
-6. 유니티 메서드(Awake, Start, Update, FixedUpdate etc)
-7. public 메서드
-8. protected 메서드
-9. private 메서드
+5. 프로퍼티 변수
+6. 생성자
+7. 유니티 메서드(Awake, Start, Update, FixedUpdate etc)
+8. public 메서드
+9. protected 메서드
+10. private 메서드
 
 ##### 2. 유니티 Attribute가 붙은 변수는 private을 적지 않을 수 있다.
 ```
