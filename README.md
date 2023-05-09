@@ -50,7 +50,7 @@ public class Stat
 {
     private int _hp;
     private int _mp;
-    private bool bFired;
+    private bool _bFired;
 }
 ```
 
