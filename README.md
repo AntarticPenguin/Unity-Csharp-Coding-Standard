@@ -145,4 +145,9 @@ Human.Arm.cs
 
 [SerializedField]
 private int _hp;
+```  
+##### 3. var 키워드는 해당 라인에서 타입 유형을 알 수 있을 때만 사용한다.
+```
+var player = GetComponent<Player>();
+var animator = GetComponent<Animator>();
 ```
